@@ -1,0 +1,36 @@
+# Special Service Request
+[color=#1b67a5]█▄ █ ▀█▀   [head=2]Special Service Request[/head]
+█ ▀█     █        [head=3]Please fulfill as soon as possible![/head][/color]
+──────────────────────────────────────────
+Please mix!
+
+[head=3][bold]Step 1: Sulfuric Acid[/bold][/head]
+Oxygen [2] 
+Hydrogen [1]
+Sulfur [1]
+[italic]Mix[/italic]
+Results in : Sulfuric Acid [3]
+
+[head=3][bold]Step 2: Fluorosurfactant [/bold][/head]
+Carbon [2]
+Fluorine [2]
+Sulfuric Acid [1]
+[bolditalic]
+• Fill jug up to 100 and mark as [1] and give Fluorosurfactant to [color=Teal]c[/color][color=OrangeRed]l[/color][color=Yellow]o[/color][color=Lime]w[/color][color=DarkViolet]n[/color][/bolditalic]
+
+[head=3][bold]Step 3: Fersilicite[/bold][/head]
+Iron[1]
+Silicon[1]
+Mix above 310K
+Results in : Fersilicite[2]
+
+[head=3][bold]Step 4: ???[/bold][/head]
+Water[1]
+Fersilicite[1]
+Oxygen[1]
+[italic]Mix[/italic]
+
+[bolditalic]• fill jug up to 100 and mark as [2] and give result to [color=DarkRed]c[/color][color=Lime]l[/color][color=Blue]o[/color][color=Magenta]w[/color][color=Aquamarine]n[/color][/bolditalic]
+
+──────────────────────────────────────────
+Sincerely, the [color=LimeGreen]c[/color][color=DodgerBlue]l[/color][color=Fuchsia]o[/color][color=DarkGoldenRod]w[/color][color=orange]n[/color] [color=Red]<3[/color]
