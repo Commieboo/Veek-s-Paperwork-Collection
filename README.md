@@ -1,7 +1,8 @@
 # Veek's-Paperwork-Collection
 Hello!
 
-Thank you for using Veek-Beem's compiled documents!
+Thank you for using Veek-Beem's compiled documents for Space Station 14! 
+Made specifically for the Delta-V server. 
 
 Special thanks to Oxaxefax and Aliasen for letting me include the Ghostlight and Spider clan documents respectively!
 
