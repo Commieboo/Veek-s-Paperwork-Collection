@@ -5,7 +5,7 @@ Thank you for using Veek-Beem's compiled documents!
 
 Special thanks to Oxaxefax and Aliasen for letting me include the Ghostlight and Spider clan documents respectively!
 
-If you find any issues or have any suggestions for documentsplease let me know!
+If you find any issues or have any suggestions for documents please let me know!
 
 While most documents have been edited by me to some degree to unify the designs of all documents i did not personally write all the included documents, many are elaborations or edits of documents written by other players of SS13 & SS14. 
 I sadly cannot credits all the other contributors as many documents have been randomly picked up or combined, i do however have a few sites that i frequented to take up ideas or baseline documents.
