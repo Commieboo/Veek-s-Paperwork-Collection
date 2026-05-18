@@ -2,7 +2,7 @@
 [color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
 ​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Personnel Search Warrant[/bolditalic]
 ​​​​​​[head=3]───────────────┴───────────────────[/head]
-​​​​​​​​​​​​​   🛈 [bold]This warrant grants security permission to [color=#cb0000]search[/color] a specified [color=#cb0000]member of personnel[/color] during any alert. [color=#cb0000]This warrant must be approved and stamped.[/color][/bold]
+​​​​​​​​​​​​​   🛈 [bold]This warrant grants security permission to [color=#cb0000]search[/color] a specified [color=#cb0000]member of personnel[/color] during any alert. [color=#cb0000]This warrant must be approved and stamped by the Chief Justice or clerk, or in their absence the Head of Security or Captain.[/color][/bold]
 
 Requesting Officer:   [color=#002AAF]Officer Sample[/color]
                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
