@@ -1,0 +1,17 @@
+# Parole Order
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Parole Order [/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+Compiler of document:   [color=#002AAF]Sample[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Paroled Prisoner:   [color=#002AAF]Sample [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Parole Reason:   [color=#002AAF]Sample [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Issued new role:   [color=#002AAF]Sample [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+I, (full name), in the position of (full name of the position), authorize the release of the prisoner in custody (full name) in the brig/permabrig. After the parole is issued, the prisoner will be given a civilian job with mandatory work until the end of the shift.
+
+[italic][color=#aaaaaa]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the department head in command of the suspect, the Head of Security, Warden, Chief Justice or the Captain.[/color]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]

@@ -1,0 +1,47 @@
+# Forensic Death Report
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Forensic Death Report[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+​​​​​​​​​​​
+[bold]Cadaver Name[/bold]:    [color=#002AAF]Sample Name[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Deceased Species[/bold]:   
+(  ) Arachnid        (  ) Diona
+(  ) Dwarf           (  ) Human
+(  ) Moth Person     (  ) Reptilian
+(  ) Slime Person    (  ) Vox
+(  ) I.P.C           (  ) Thaven
+(  ) Vulpkanin       (  ) Felinid
+(  ) Harpy           (  ) Oni
+(  ) Rodentia        (  ) Chitinid
+(  ) Feroxi          (  ) Kitsune
+(  ) Other:
+Other Species:  [color=#002AAF]Sample Species[/color]
+                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Physical Appearance:[/bold]
+(  ) Male      (  ) Female    (  ) Not Applicable/other
+
+[bold]Skin Tone:[/bold]  [color=#002AAF]Sample Color[/color]
+                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Role:[/bold]  [color=#002AAF]Sample Job[/color]
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Cause of Death:[/bold]  [color=#002AAF]Sample Cause[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Place of Death:[/bold]  [color=#002AAF]Sample Cause[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Time of Death:[/bold]  [color=#002AAF]Sample Cause[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]State of Cadaver:[/bold]
+(  ) Rotted    (  ) Unknown    (  ) Departed    (  ) Revivable
+(  ) Other:    [color=#002AAF]Sample Item[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Items Missing:[/bold]
+(  ) PDA    (  ) Jumpsuit    (  ) Backpack    (  ) Headset:
+(  ) Other(s):    [color=#002AAF]Sample Item(s)[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Scene of the Body:[/bold]
+[color=#002AAF]Sample description of the scene in which the body was found, detailing such things as "next to a bunch of shell casings" or "found in a pile of blood", "found with a broken bottle and a puddle of booze" "found in disposals with the trash" etc.[/color]
+
+[bold]Notes:[/bold]
+[color=#002AAF]Sample Notes, any extra details/information/theories you want to write down.[/color]

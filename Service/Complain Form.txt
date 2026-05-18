@@ -1,0 +1,46 @@
+# Formal Complaint
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Ad servandum vivo'[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Formal Complaint[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#1b67a5][head=2]Section A[/head][/color]
+[bold][color=#1b67a5]Your Name:[/color][/bold]
+             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#1b67a5]Your Role and department:[/color][/bold]
+             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#1b67a5][head=2]Section B[/head][/color]
+[color=#1b67a5][bold]Please reply by using the "X" marker to indicate who you are complaining about:[/bold][/color]
+(  ) A Person    (  ) A Department    (  ) Other
+[color=#aaaaaa][italic]If other, please skip to Section C[/italic][/color]
+
+[head=1][color=#aaaaaa]────────────────────[/color][/head]
+[color=#1b67a5][bold]The person/department works in/is one of the following:[/bold][/color]
+(  ) Epi     (  ) Engi  (  ) Service         (  ) Cargo        (  ) Court
+(  ) Med  (  ) Sec    (  ) Command   (  ) CentCom  (  ) Other
+[color=#aaaaaa][italic]If you are complaining about a person, please answer the following.[/italic][/color]
+
+[bold][color=#1b67a5]They Name: [/color][/bold]
+             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold][color=#1b67a5]They Role and department: [/color][/bold]
+             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[head=1][color=#aaaaaa]────────────────────[/color][/head]
+[color=#1b67a5][bold]Please choose category(s) of misconduct the person or department has committed.[/bold][/color]
+(  ) Violation of Space Law      (  ) Acting against NT interests
+(  ) Destruction of Property    (  ) Causing a disturbance
+(  ) "Unspeakable Acts"          (  ) Sabotage of equipment
+(  ) Theft of Property                (  ) Overly Bureaucratic
+(  ) Overly Rude/Mean             (  ) Not Bureaucratic Enough
+(  ) Just really fucking annoying like my god man
+(  ) Other:
+
+[head=1][color=#aaaaaa]────────────────────[/color][/head]
+[color=#1b67a5][bold]How many people are affected by the misconduct?[/bold][/color]
+(  ) Just Me    (  ) A few people    (  ) A department worth
+(  ) Multiple Departments worth    (  ) Whole Station
+
+[head=1][color=#1b67a5]────────────────────[/color][/head]
+[color=#1b67a5][head=2]Section C[/head]
+[bold]Please provide a detailed explanation of the misconduct below, providing all details relevant to the story.[/bold][/color]
+

@@ -1,0 +1,19 @@
+# Accomplishment Certificate
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Station Name Here[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Accomplishment Certificate.[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+[bold]​​​​​​​​​​​​​   🛈 This Certificate certifies that you have gone [color=#002AAF]above and beyond in performing your duties![/color] This Certificate also certifies the authenticity of the [color=#002AAF]medal [/color]awarded to you that accompanies the Certificate.[/bold]
+
+[bold][color=#002AAF]Name[/color] performed above and beyond and has been awarded the following medal:[/bold]
+(  ) [color=DarkGoldenRod]Gold Medal of Crewmanship[/color]
+(  ) [color=SaddleBrown]Bronzeheart Medal[/color]
+(  ) [color=#b18644]Cargo Medal[/color]
+(  ) [color=#f39f27]Engineering Medal[/color]
+(  ) [color=#5b97bc]Medical Medal[/color]
+(  ) [color=#c96dbf]Science Medal[/color]
+(  ) [color=#cb0000]Security Medal[/color]
+(  ) Clown Medal
+
+[italic][color=#aaaaaa]​​​​​​​​​​​​​   🛈 In order to be valid this document must be stamped by either the Head of Personnel, Captain, or department head of the relevant department if the awarded medal is a departmental medal. If the awardee has received multiple medals, please provide multiple certificates, one for each medal. Do not award a singular certificate for one medal.[/color][/italic]
+                                  [bold]═══╣ Stamp Below ╠═══[/bold]

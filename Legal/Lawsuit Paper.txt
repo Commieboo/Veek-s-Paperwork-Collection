@@ -1,0 +1,41 @@
+# Lawsuit Paper
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Prepared by: Veek-Beem[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[color=#800000][head=2]§1)The Parties[/head][/color]
+[head=3]     [color=#6b2833]Plaintiff,[/color]
+[head=3]    <PLANTIFF NAME>
+        v.
+[head=3]     [color=#6b2833]Defendant,[/color]
+[head=3]    <DEFENDANT NAME>
+───────────────────────────────────
+
+[color=#800000][head=2]§2) The Complaints[/head][/color]
+The Plaintiff brings forth to the court and alleges the following:[italic][color=blue]
+<Insert your complaint here. Basically, what the defendant did wrong, what laws were broken, how it affects you, why you should be awarded your damages, etc. try to embellish without being dishonest>[/italic][/color]
+
+The Plaintiff and the Plaintiff's lawyer(s) agree that the complaints of or on behalf of the Plaintiff are honest and are factual to the best of the Plaintiff's abilities.
+
+───────────────────────────────────
+
+[color=#800000][head=2]§3) The Compensation[/head][/color]
+Below is the breakdown of the damages the Plaintiff claims to have sustained [italic]not including Punitive Damages awarded by the court[/italic]. The Plaintiff expects to receive compensation for the damages they have sustained.
+[bold]The breakdown of damages are as follows:[/bold][color=blue]
+<Insert the compensation for the damages you wish to receive here>[/italic][/color]
+
+───────────────────────────────────
+
+[color=#800000][head=2]§4) The Evidence[/head][/color]
+
+• [italic] x [/italic]
+• [italic] x [/italic]
+• [italic] x [/italic]
+
+───────────────────────────────────
+
+[color=#800000][head=2]§5) The Witnesses[/head][/color]
+The Plaintiff has named the following individuals as witnesses:
+• NAME, REASONING
+• NAME, REASONING
+• NAME, REASONING

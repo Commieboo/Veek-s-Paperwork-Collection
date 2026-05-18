@@ -1,0 +1,45 @@
+# Controlled Armaments quickReference
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]Chief Justice[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[/color][color=maroon][bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=1][bolditalic]VEEK-BEEM[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+🛈 Controlled Armaments are grouped into categories of increasing severity. If the offender possesses several categories of contraband, only the highest severity of said items should be charged. 
+​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​──────────────────────────────────────────
+[head=3][bold]Category A: [/bold][/head]
+[italic]Illegal possession may incur a sentence of up to 3min.[/italic]
+
+•     Any object or instrument specifically designed, adapted, or used to cause physical harm in close combat
+•     Any object or equipment specifically designed or adapted to protect against physical harm caused by weapons, projectiles, or other forms of direct assault
+•     Any object or instrument specifically designed or adapted to incapacitate or disorient by using light or sound without causing permanent injury
+•     Any object or equipment specifically designed or adapted for explicitly training purposes that would otherwise fall under another category
+──────────────────────────────────────────
+[head=3][bold]Category B: [/bold][/head]
+[italic]Illegal possession may incur a sentence of up to 8min.[/italic]
+
+•     Any object or instrument specifically designed or adapted to cause physical harm in close combat, which employs a powered system to enhance performance
+•     Any manually-operated ballistic arms that possess an internal magazine or feeding system, or lack an internal magazine or feeding system altogether
+──────────────────────────────────────────
+[head=3][bold]Category C: [/bold][/head]
+[italic]Illegal possession may incur a sentence of up to 12min. [/italic]
+•     Any manually-operated ballistic arms that use an external magazine or feeding system
+•     Any semi-automatic ballistic arms not easily concealable within a pocket or coat
+•     Any object or instrument specifically designed or adapted for explicitly less-lethal purposes that would otherwise fall under another category
+──────────────────────────────────────────
+[head=3][bold]Category D: [/bold][/head]
+[italic]Illegal possession may incur a sentence of up to 15min and a trail.[/italic]
+
+•     Any semi-automatic ballistic arms that are easily concealable
+•     Any fully-automatic ballistic arms
+•     Any laser, plasma, or energy based arms, including ones designed, intended, or used for melee combat.
+•     Any object or device specifically designed or adapted to cause physical harm through detonation of an explosive charge
+•     Any object or equipment specifically designed or adapted to protect against both a space environment and physical harm caused by weapons, projectiles, or other forms of direct assault
+──────────────────────────────────────────
+[head=3][bold]Category E: [/bold][/head]
+[italic]Illegal possession may incur a sentence of up to 20min and a trial.[/italic]
+
+•     Any crew-served or emplaced weapon
+•     Any object or instrument specifically designed or adapted to launch large-calibre explosives or projectiles for offensive or defensive purposes
+•     Any object or instrument specifically designed or adapted to employ chemical, biological, esoteric, radiological, or nuclear hazards for offensive or defensive purposes
+──────────────────────────────────────────
+[color=Gray]🛈 Armaments licenses may be issued by the Captain, Warden, or Head of Security. The license must include the name of the holder, a list of allowed armaments, and a stamped signature from the issuer.[/color]
+
+[color=Gray]🛈 If the holder uses their armaments in the commission of a crime, the issuer may be held liable for accessory to the crimes committed, along with Endangerment and Abuse of Power where applicable. [/color]

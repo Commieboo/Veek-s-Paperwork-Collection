@@ -1,0 +1,49 @@
+# Alert Procedure quickrefrence
+
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]        [head=3]│[/head] [color=gray][italic]Chief Justice[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Alert Procedure [/color][/bolditalic] [head=3]│[/head] [head=1][bolditalic]VEEK-BEEM[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#476f38][head=3][bold]Green Alert │ Normal Operations[/bold][/head][/color]
+ 	CO > Department Heads > ...  
+[italic]The normal operating procedure. There is no currently known threat to the ship, nor crew. [/italic]
+──────────────────────────────────────────
+[color=#3d5e96][head=3][bold]Blue Alert │ Suspected Threat [/bold][/head][/color]
+ 	CO > HoS > Department Heads > ...  
+[italic]Elevated alert status. There is an ongoing, known, or suspected security threat to the NanoTrasen vessel or its crew, or another significant security emergency.[/italic]
+──────────────────────────────────────────
+[color=#873a3b][head=3][bold]Red Alert │ Major security threat[/bold][/head][/color]
+ 	CO > Sec > Department Heads > ... 
+[italic]Emergency alert status. There are multiple major emergency situations ongoing, or a major security emergency affecting the station.[/italic]
+──────────────────────────────────────────
+[color=#4e3986][head=3][bold]Violet Alert │ Medical emergency[/bold][/head][/color]
+ 	CO > CMO > Medical > Department Heads > ... 
+[italic]Elevated alert status. There is a serious viral outbreak, ongoing major death event, or there is another significant medical emergency.[/italic]
+──────────────────────────────────────────
+[color=#7f7f33][head=3][bold]Yellow Alert │ Atmospheric emergency [/bold][/head][/color]
+ 	CO > CE > Engineering > Department Heads > ... 
+[italic]Elevated alert status. There is a major issue with the atmospheric system, the station has suffered/is about to suffer significant damage, or there is another significant engineering emergency.[/italic]
+──────────────────────────────────────────
+[color=#888889][head=3][bold]White Alert │ Epistemics emergency[/bold][/head][/color]
+ 	CO > Mystia > Epistemics > Department Heads > ... 
+[italic]Elevated alert status. The station is suffering dangerously high levels of glimmer, there are several active psionic threats, or there is another significant epistemic emergency.[/italic]
+──────────────────────────────────────────
+[color=#34616b][head=3][bold]Gamma Alert │ Last station alert[/bold][/head][/color]
+ 	CO > Sec > Department Heads > ... 
+[italic]Emergency alert status. Central Command has called the Gamma Alert; the Station is on its last legs, almost everyone is dead, or there is another existential crisis affecting the station.[/italic]
+──────────────────────────────────────────
+[color=#7f5833][head=3][bold]Delta Alert │ Imminent nuclear destruction[/bold][/head][/color]
+ 	CO > Sec > Department Heads > ... 
+[italic]Emergency alert status. The nuclear destruction mechanism has been engaged and station destruction is imminent. All crew aboard the station must attempt to reverse the self-destruct mechanism, if engaged in error. Should reversal prove impossible, evacuate as applicable.[/italic]
+──────────────────────────────────────────
+[color=peru][head=3][bold]Orange Alert │ Abandon ship alert[/bold][/head][/color]
+ 	CO > CE > Sec > Department Heads > ... 
+[italic]Emergency alert status. The station is declared inhabitable or faces immediate destruction with recovery deemed impossible. The MAYDAY signal on the station has activated and all crew aboard the station must evacuate in whichever way possible.[/italic]
+──────────────────────────────────────────
+[color=#4e3986][head=3][bold]Code Octarine │ Imminent noospheric emergency [/bold][/head][/color]
+ 	CO > Mystia > Epistemics > Department Heads > ... 
+[italic]Emergency alert status. The station's deep-spectrum sensors have identified critical Λ-CDM levels. The station and all surrounding space is under threat of an impending existential noospheric-to-real threat.[/italic]
+──────────────────────────────────────────
+[color=#b000ff][head=3][bold]Code Epsilon │ Central Command Alert[/bold][/head][/color]
+ 	Central Command 
+[italic]Emergency alert status. Central Command has ordered the Epsilon security level on the station. Only orders from Central Command Officials are to be obeyed by the Station's Crew. Martial Law is in effect.[/italic]
+──────────────────────────────────────────

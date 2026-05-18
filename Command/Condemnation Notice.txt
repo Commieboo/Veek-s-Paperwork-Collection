@@ -1,0 +1,17 @@
+# Condemnation Notice 
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Station Name Here[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Condemnation Notice [/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 [bold]I, [color=#1b67a5]NAME[/color] of the listed station have deemed the following order by the Captain or other superior to be against Nanotrasen Intrests or otherwise unconstitutional and formally condemn the Captain or other superior and refuse to act out their orders.[/color][/bold]
+
+[bold]Name of condemned person: [color=red] Enter Full Name [/color][/bold]
+[bold]Rank of condemned person: [color=red] Department Here [/color][/bold]
+
+[bold]The order described:[/bold]
+[color=#002AAF]     Sample                [/color]
+
+[bold]Name: [color=red] Enter Full Name [/color][/bold]
+[bold]Rank: [color=red] Department Here [/color][/bold]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]

@@ -1,0 +1,55 @@
+# Medical Death Certificate
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Medical Death Certificate[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+This document certifies the permanent death of an individual who can not, or will not, be revived.
+
+Coroner Name:  [color=#002AAF]Sample Name[/color]
+                        ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Deceased Name:  [color=#002AAF]Sample Name[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Deceased Species:  
+(  ) Arachnid         (  ) Diona
+(  ) Dwarf            (  ) Human
+(  ) Moth Person      (  ) Reptilian
+(  ) Slime Person     (  ) Vox
+(  ) I.P.C            (  ) Thaven
+(  ) Vulpkanin        (  ) Felinid
+(  ) Harpy            (  ) Oni
+(  ) Rodentia         (  ) Chitinid
+(  ) Feroxi           (  ) Kitsune
+(  ) Other:
+Other Species:  [color=#002AAF]Sample Species[/color]
+                       ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Physical Appearance:
+(  ) Male      (  ) Female    (  ) Not Applicable/other
+Skin Tone:  [color=#002AAF]Sample Color[/color]
+                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Role:  [color=#002AAF]Sample Job[/color]
+         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Cause of Death:  [color=#002AAF]Sample[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Place of Death:  [color=#002AAF]Sample[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Time of Death:  [color=#002AAF]Sample[/color]
+                         ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason(s) cadaver is not revivable (select all that apply):
+(  ) Rotted
+(  ) Severely damaged (e.g. more than 500 damage)
+(  ) Irreparably damaged (e.g. more than 200 poison)
+(  ) Cremated
+(  ) Gibbed
+(  ) No cadaver
+(  ) Soul departed
+(  ) Legally prohibited (attach relevant documentation)
+(  ) Unknown (not responding to revival attempts)
+(  ) Other:  [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Resting Place:
+(  ) Morgue
+(  ) Chapel
+(  ) Unknown
+(  ) Other:  [color=#002AAF]Sample Place[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+

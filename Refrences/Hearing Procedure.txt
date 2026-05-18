@@ -1,0 +1,35 @@
+# Hearing Procedure
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]Chief Justice[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=1][bolditalic]VEEK-BEEM[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[italic][color=Gray]   🛈 [bold]The Prosecution[/bold] in cooperation with the [bold]detective and security[/bold] is responsible for the [bold]collection of evidence and collection of testimonies[/bold].[/color][/italic]
+
+─────────────────────────────────────────
+
+    [bold][head=3]0.[/head] The Judge confirms all required persons are present[/bold]
+[italic]If any required persons are not present the judge may issue a Subpoena to legally bind the required persons to be present.[/italic]
+
+[bold]    [head=3]1.[/head] The Prosecution reads the charges.[/bold]
+[italic]The prosecution also suggests the penalty they will push for and states in short which evidence they will present.[/italic]
+
+[bold]    [head=3]2.[/head] The Attorney will please Guilty-or-not-guilty[/bold]
+[italic]If the Accused pleads guilty the Prosecutor's suggested penalty will be adopted with the judge's approval[/italic]
+
+[bold]    [head=3]3.[/head] The Prosecution presents all evidence to support the charges.[/bold]
+[italic]This will include all evidence earlier listed to the court.[/italic]
+
+[bold]    [head=3]4.[/head] The Attorney contests the prosecution's version of events and presents their own evidence.[/bold]
+[italic]The attorney may also request to object any of the evidence presented during step 3, should they Judge allow it they are allowed to interject.[/italic]
+
+[bold]   [head=3]5.[/head] The Judge rules on whether the suspect reasonably has committed the crime and a ruling is enacted[/bold]
+[italic]If the accused is found not guilty of a more severe version of a crime, the Judge may still find them guilty of a less severe version (for example if found not guilty of murder, the accused may be found guilty of manslaughter), despite the crime not being charged.[/italic]
+
+[color=Gray]​​​​​​​​​​​​​   🛈 If a party refuses to follow through with the ruling, they may suffer criminal penalties.[/color]
+─────────────────────────────────────────
+
+[color=Gray]​​​​​​​​​​​​​   🛈 Suspects who are found guilty of a part of the charged crimes, in a way where the total sentence does not exceed 25 minutes, may be released immediately, at the judges discretion. 
+
+   🛈 A capital sentence should be approved under Space Law. The default sentence for suspects guilty of a capital crime is permanent confinement.
+
+   🛈  If there is no doubt of the suspects guilt of a capital crime, or a guilty plea to a capital crime, and the nature of the crime is judged to be extreme and heinous, the Judge is authorized to sentence the prisoner to be executed. [/color]

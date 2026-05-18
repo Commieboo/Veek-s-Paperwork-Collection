@@ -1,0 +1,21 @@
+# Post Vital Surgery Report Card
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Post-Vital Surgery Report[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+​​​​​​​​​​​​​   🛈 This document provides a post-operative report detailing any limbs or organs that were replaced during a vital life-saving surgical procedure.
+─────────────────────────────────────────
+Patient Name: [color=#002AAF]Sample Person[/color]
+Patient Current Department: [color=#002AAF]XXX[/color]
+─────────────────────────────────────────
+State of patient upon arrival:  
+(  ) Stable             (  ) Dead
+(  ) Rotting            (  ) Other:
+
+Organs/Limbs Replaced: [color=#002AAF]XXX, XXX, XXX[/color]
+
+
+
+─────────────────────────────────────────
+​​​​​​​​​​​​​   🛈 [color=#aaaaaa]Any misuse or falsification of the information contained in this report, including unauthorized access to or use of data related to vital life-saving surgical procedures, is subject to disciplinary action.[/color]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

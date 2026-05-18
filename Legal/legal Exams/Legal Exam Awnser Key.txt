@@ -1,0 +1,107 @@
+# Legal Exam Answer Key
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Legal Exam Answer Key[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[head=2]Section A: Space Law[/head]
+
+[bold]• A1. Explain what 'Brigging'  is.[/bold]
+[color=blue] Placing the convict into a temporary holding cell.            [/color]
+
+[bold]• A2. Explain the Double Jeopardy Clause.[/bold]
+[color=blue] accused persons may are not to be charged on the same charges following an acquittal or conviction, except in the case of acquittal and subsequent credible admission of guilt.           [/color]
+
+[bold]• A3. A crew member is found to have an open Syndicate uplink on their PDA, this is their only crime. Are they to be held in perma?[/bold]
+[color=blue] No, they are charged with black marketeering           [/color]
+
+[bold]• A4. An engineer accidentally spaces a part of the station, killing one crew member and harming another. What crimes have they committed?[/bold]
+[color=blue] Manslaughter and Endangerment           [/color]
+
+[bold]• A5. Name one Extenuating crime modifier and explain it.[/bold]
+[color=blue] Cooperation
+    Any entity who shares actionable intelligence with the authorities, turns oneself in, testifies against accomplices, confesses to their crime, or otherwise aids the prosecution, may have their sentence reduced to no less than 50% of the original sentence.
+
+Dire Emergency
+    Any entity found to have committed a crime in the process of absolutely necessary and reasonable actions, taken with the intent to resolve or mitigate the effects of a dire emergency on one’s vessel or habitat, may have their sentence reduced by any amount, or completely waived.
+
+Self-Defence
+    Any entity found to have committed a crime or crimes in protection of oneself or another, and only to the necessary extent to avert a direct and imminent threat to the health and life of innocent persons, may have their sentence reduced by any amount, or completely waived.
+
+Good Behavior
+    Any convict who peacefully complies with the authorities, displays clear signs of remorse concerning the committed crime, and/or conducts themselves peacefully while imprisoned, may be paroled as outlined in the Standard Operating Procedures.           [/color]
+
+
+[head=2]Section B: Standard Operating Procedure[/head]
+
+[bold]• B1. Can a captain be criminally punished for modifying the SoP?[/bold]
+[color=blue] Yes, if they abuse this power.            [/color]
+
+[bold]• B2. Is sec obliged to provide medical care for prisoners under martial law?[/bold]
+[color=blue] No.            [/color]
+
+[bold]• B3. Give two examples of Controlled Substances.[/bold]
+[color=blue] Mindbreaker Toxin and other psionically altering agents.
+Romerol, and other rapid acting biological or chemical agents.
+Desoxyephedrine, and similar stimulants.
+Nocturine, and similar sedatives.
+Phlogiston, and other explosive and/or pyrotechnic compounds.
+Amatoxin, and other toxic and/or poisonous compounds.
+Blissifylovene, Soretizone, Tranquinase, and all similar psychoactives used to aid in mental wellbeing.           [/color]
+
+[bold]• B4. What level of armament license do Security personnel inherently possess?[/bold]
+[color=blue] Category D           [/color]
+
+[bold]• B5. When is a hearing legally required?[/bold]
+[color=blue] When the sentence is longer than 20 minutes or capital           [/color]
+
+[bold]• B6. Are IPC's considered Synthetic or not under the SoP?[/bold]
+[color=blue] No, they are crew.            [/color]
+
+[bold]• B7. Who are allowed to issue warrants assuming all crew positions are filled?[/bold]
+[color=blue] Chief justice & Clerk           [/color]
+
+
+[head=2]Section C: Alert Procedure[/head]
+
+[bold]• C1. Under which alert code does Medical personnel outrank Sec?[/bold]
+[color=blue] Violet            [/color]
+
+[bold]• C2. Under which Three alert statuses does Martial Law apply?[/bold]
+[color=blue] Gamma, Delta & Epsilon            [/color]
+
+[bold]• C3. Is sec allowed to open carry under code White?[/bold]
+[color=blue] Yes, It's permitted           [/color]
+
+
+[head=2]Section D: Company Policy[/head]
+
+[bold]• D1. What does PPE stand for?[/bold]
+[color=blue] Personal Protective Equipment           [/color]
+
+[bold]• D2. Name two potential warning signs of Unionization.[/bold]
+[color=blue] Crew members refusing to work. 
+Usage of union related terminology, (living wage, working conditions, etc.) 
+Circulation or distribution of petitions and union fliers. 
+Unusual interest in Company policies, benefits, employee list or any other Company information. 
+Noticeable changes in behavior among known crew members. 
+Non-manifest individuals supporting union activity. 
+Clothing, accessories associated with unions. Increased negativity and complaints.           [/color]
+
+[bold]• D3. Name at least one basic responsibly all crew members have.[/bold]
+[color=blue]     Are responsible for following safety protocols, operating procedures, and company policies to ensure their own safety and others’. 
+Are responsible for upholding the company’s reputation through their behaviour, communication, and general conduct. 
+Are responsible for fulfilling their assigned tasks and responsibilities efficiently and to the best of their ability, particularly where they are essential to station function. 
+Are responsible for promptly reporting grievances, hazards, or malfunction to appropriate personnel. Are responsible for conscientiously managing and utilising their resources for efficient operation. 
+Are responsible for upholding the policies outlined within this CPM14 manual.           [/color]
+
+[bold]• D4. Under what condition is self-defense permitted?[/bold]
+[color=blue] The threat must be immediate and serious, with clear intent to cause grievous harm or injury to the employee. And all other reasonable alternatives must be exhausted           [/color]
+
+[bold]• D5. Name one things that crew are advised to do to combat the presence of hostile entities.[/bold]
+[color=blue] Report suspected individuals.
+Increase monitoring and patrols.
+Identify unauthorised access attempts and potential breaches.
+Secure critical data.
+Conduct regular emergency drills.
+Perform de-escalation training.
+Implement advanced counter-espionage protocols.          [/color]

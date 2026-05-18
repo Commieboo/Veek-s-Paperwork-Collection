@@ -1,0 +1,26 @@
+# Job Application Form
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Ad servandum vivo'[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Job Application Form[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+​​​​​​​​​​​​​   🛈 [bold]The subject of this document requests a [color=#1b67a5]transfer[/color] between or to departments, including [color=#1b67a5]ID level access[/color].[/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    Sample    [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Previous Employment:[/bold][mono]
+ [bold][color=#aaaaaa](  ) [/color][/bold] Cargo    [bold][color=#aaaaaa](  ) [/color][/bold] Command  [bold][color=#aaaaaa](  ) [/color][/bold] Engineering
+ [bold][color=#aaaaaa](  ) [/color][/bold] Medical  [bold][color=#aaaaaa](  ) [/color][/bold] Science  [bold][color=#aaaaaa](  ) [/color][/bold] Security
+ [bold][color=#aaaaaa](  ) [/color][/bold] Service  [bold][color=#aaaaaa](  ) [/color][/bold] Other:[/mono]         [color=blue]    Sample    [/color]
+                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Requested Employment:[/bold][mono]
+ [bold][color=#aaaaaa](  ) [/color][/bold] Cargo    [bold][color=#aaaaaa](  ) [/color][/bold] Command  [bold][color=#aaaaaa](  ) [/color][/bold] Engineering
+ [bold][color=#aaaaaa](  ) [/color][/bold] Medical  [bold][color=#aaaaaa](  ) [/color][/bold] Science  [bold][color=#aaaaaa](  ) [/color][/bold] Security
+ [bold][color=#aaaaaa](  ) [/color][/bold] Service  [bold][color=#aaaaaa](  ) [/color][/bold] Other:[/mono]         [color=blue]    Sample    [/color]
+                                                     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Purpose of Request:[/bold]
+[italic][color=#aaaaaa]Provide a detailed explanation for your request.[/color][/italic][color=blue]
+       Reason
+[/color]
+
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the head of a department (where valid), the Head of Personnel, or the Captain.
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

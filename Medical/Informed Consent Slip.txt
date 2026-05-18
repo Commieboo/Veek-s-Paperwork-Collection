@@ -1,0 +1,23 @@
+# Informed Consent Slip
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Informed Consent Slip[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+​​​​​​​​​​​​​   🛈 By signing this document, I [color=#002AAF]The patient[/color] understand the risks of the described prescription or surgery. I Conform that the acting doctor had adequately informed me of all possible risks and have made the informed and sober decision to pursue this treatment.  
+─────────────────────────────────────────
+[bold]Patient Name:[/bold] [color=#002AAF]  Sample Person  [/color]
+Patient Current Department: [color=#002AAF]  XXX  [/color]
+─────────────────────────────────────────
+[bold]Acting Doctor:[/bold] [color=#002AAF]  Sample Person  [/color]
+Reason for intervention:
+[color=#002AAF]  XXX  [/color]
+
+Description of intervention: 
+[color=#002AAF]  XXX  [/color]
+
+Risks of the Intervention:
+[color=#002AAF]  XXX  [/color]
+
+─────────────────────────────────────────
+​​​​​​​​​​​​​   🛈 [color=#aaaaaa]By signing this form the patient waives any right to sue the acting doctor for risks described in the paper above except for cases of gross medical malpractice.[/color]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

@@ -1,0 +1,13 @@
+# Witness Statement
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Witness Statement[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 [bold]This document represents an [color=#cb0000]official witness statement[/color] to [color=#cb0000]space crime[/color] by a concerned crewmember.[/bold]
+
+[bold]Witness Name:[/bold]         [color=blue]   Sample   [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Witness Position:[/bold]         [color=blue]   Sample   [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Witness statement:[/bold]
+[color=#002AAF]       Sample       [/color]

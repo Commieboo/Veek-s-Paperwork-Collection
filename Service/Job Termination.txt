@@ -1,0 +1,40 @@
+# Job termination form
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Ad servandum vivo'[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Job termination form[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+[bold]You have been terminated[/bold]
+
+[bold]Name: [/bold][color=red]Enter Full Name [/color]
+[bold]Department: [/bold][color=red]Department Here [/color]
+[bold]Reason for Termination: 
+
+Reason for Separation:
+​VOLUNTARY
+(  )  Without notice or reason
+(  )  Another Job
+(  )  Relocation
+(  )  Illness
+(  )  Pay
+(  )  Working Conditions
+(  )  Work Schedule
+(  )  Enlisted in Armed Forces
+(  )  Problem with Supervisor
+(  )  Problem with Co-worker
+(  )  Personal Problem
+(  )  Retirement
+(  )  Refused Suitable Work
+(  )  LOA - Did not return
+(  )  Other ___
+
+​INVOLUNTARY
+(  )  Absenteeism
+(  )  Insubordination
+(  )  Violation of Rules
+(  )  Lack of Work
+(  )  Other
+(  )  Tardiness
+(  )  Unsatisfactory work
+(  )  Refusal to Follow Instruction
+(  )  Job Eliminated or Changed
+(  )  Involuntary Retirement

@@ -1,0 +1,37 @@
+# Temporary Restraining Order
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Temporary Restraining Order[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[color=#800000][head=2]§1) Name of Protected Person[/head][/color]
+                   [color=#002AAF]Sample Person[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+​​​​​​​​​​​​​   🛈 [bold]Your lawyer's information[/bold] [italic](if you do not have a lawyer, you may give your information however you are not required to.)[/italic]:
+Name:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Firm Name:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Fax Address:    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#800000][head=2]§2) Name of Restrained Person[/head][/color]
+                [color=#002AAF]Sample Person[/color]
+  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Description of Restrained person:[/bold]
+Sex: (  ) M    (  ) F    (  ) X
+Race & Age:    [color=#002AAF]Sample Answers[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Hair/Eye Color:    [color=#002AAF]Sample Answers[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Relationsip to (1):    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#800000][head=2]§3)(  ) Additional Protected Persons[/head][/color]
+In addition to the person named in (1), the folowing persons are protected my temporary orders as indicated below.
+[bold]Full Name/Relationship/Sex/Age[/bold]
+[color=#002AAF][bullet/]Sample Person, X, XX   [/color]
+
+[color=#800000][head=2]§4)Expiration Date[/head][/color]
+[bolditalic]This order expires at the date and time of the court hearing below:[/bolditalic]
+Shift Time:    [color=#002AAF]Sample Time[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾

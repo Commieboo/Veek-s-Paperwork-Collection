@@ -1,0 +1,29 @@
+# Officer Complaint
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Officer Complaint[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+​​​​​​​​​​​​​   🛈 [bold]This report represents an [color=#cb0000]official complaint[/color] against a security officer for breach of conduct.[/bold]
+
+[color=#cb0000][head=2]Plaintiff,[/head][/color]
+
+[bold]Your Name:[/bold]         [color=blue]   Sample   [/color]
+                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Your Position:[/bold]         [color=blue]   Sample   [/color]
+                               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000][head=2]The offending officer,[/head][/color]
+
+[bold]Officer's Name:[/bold]        [color=#002AAF]Officer Sample[/color]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Officer's Position:[/bold]
+[bold][color=#aaaaaa] (   )[/color][/bold] Cadet         [bold][color=#aaaaaa] (   )[/color][/bold] Officer         [bold][color=#aaaaaa] (   )[/color][/bold] Paramedic         [bold][color=#aaaaaa] (   )[/color][/bold] Warden
+[bold][color=#aaaaaa] (   )[/color][/bold] Head of Security       [bold][color=#aaaaaa] (   )[/color][/bold] Other:     [color=blue]   Sample   [/color]
+                                                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#cb0000][head=2]Incident Details[/head][/color]
+[bold]When did the incident occur?[/bold]        [color=#aaaaaa]Shift Time:[/color] [color=blue]   sample   [/color]
+                                                           ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Provide a detailed explanation of the missconduct below, providing all details relevant to the story.[/bold]
+[color=blue]
+    sample
+[/color]
+
+[color=#cb0000]​​​​​​​​​​​​​   🛈 [bold]Submit this report to the Head of Security, the Captain, Chief Justice or to CentComm for review. Refrain from involving multiple commanding officers unless it is absolutely nessecary.[/bold][/color]

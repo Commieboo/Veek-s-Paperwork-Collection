@@ -1,0 +1,24 @@
+# Execution Order
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Execution Order[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 [bold]I, the [color=maroon]Chief Justice[/color] confirm that all other legal and security measures have been deliberated and exhausted and confirm that legal [color=maroon]Execution [/color]of the listed prisoner is the only remaining logical and practical course of action.[/color][/bold]
+
+[bold]Prisoner Name:[/bold]    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Prisoner Crime:[/bold]    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[/center]─────────────────────────────────────────
+[italic]I,[color=#1b67a5] Veek-Beem[/color], hereby authorize the execution of the above listed prisoner.[/italic]
+─────────────────────────────────────────
+[bold]Execution method:[/bold]    (   ) Execution    ( X ) Exfiltration
+─────────────────────────────────────────
+[bold][color=#1b67a5] Conformation from the Captain: ( X ) [/color]
+[color=#800000] Conformation from the Chief Justice: ( X ) [/color]
+[color=#cb0000] Conformation from the Head of Security: ( X ) [/color][/bold]
+─────────────────────────────────────────
+[color=Gray]​​​​​​​​​​​​​   🛈 Execution should be utilized as an absolute last resort, for criminals whose crimes are extraordinarily cruel, or who prove impossible to confine through less restrictive means. [/color]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]

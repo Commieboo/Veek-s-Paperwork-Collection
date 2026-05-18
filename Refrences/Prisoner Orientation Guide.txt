@@ -1,0 +1,33 @@
+# Prisoner Orientation Guide
+[color=orange]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]Chief Justice[/italic][/color]
+​​​[color=orange]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=1][bolditalic]VEEK-BEEM[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+[head=1][bold]   Prisoner Orientation Guide[/bold][/head]
+─────────────────────────────────────────
+                       Welcome to the brig, new inmate! 
+You are here because you've been found guilty of criminal activity and have been sentenced to serve time within the confines of the brig. The arresting officer should have by now informed you of your charges and set your sentence with the Station's automatic cell system. You can view the time left on your sentence on the helpful display right outside your brig door. Once this time is up, you will be free to go about your business aboard the Station!
+
+​​​​​​​​​​​​​   🛈 Below you can find a summary of your rights as a prisoner and some helpful do's and don't while you can temporarily confined.
+─────────────────────────────────────────
+[bullet][bold]You have the right to adequate medical care and moral, spiritual, or legal counseling if it is requested and available.[/bold]
+When requested Security is obliged to seek out and provide these services when available. 
+─────────────────────────────────────────
+[bullet][bold]You have a right to the Common and Prison radio channels only while serving their sentence.[/bold]
+You too have a right to stay informed about the station's status! If your Radio device has been confiscated for investigation there should be a standart prison radio avalible in your locker.
+─────────────────────────────────────────
+[bullet][bold]You have a right to an adequate cell and standard prisoner equipment.[/bold]
+If your cell is no longer functional or inhabitable you should be relocated to a safe holding environment, you also have access to a prison radio or prisoner clothing, should these items be missing from your locks you have a right to request these items. You may also request back any confiscated clothing to wear during your stay.
+─────────────────────────────────────────
+[bullet][bold]You have a right to take care of your basic needs.[/bold]
+Be it food, water or power for IPC models you have a right to request these basic necessities at any time. 
+────────────────────────────────────────
+[bullet][bold]You have a right to freedom of movement within your holding area.[/bold]
+You can't be left in constraints! Sec is required to uncuff you while you are in your prison cell. Sec is obliged to provide these nessecities when requested.
+────────────────────────────────────────
+[bullet][bold]Your confiscated items should be returned upon finishing your sentence.[/bold]
+either by the automatic opening of your cell's locker, or by manual return by our friendly and helpful security team. However, this [bold]DOES NOT[/bold] include any items or tools used in the crimes you have been sentenced for, or items that are otherwise illegal. These will be confiscated permanently.
+────────────────────────────────────────
+[color=Gray]​​​​​​​​​​​​​   🛈 Should you willfully and repeatedly abuse these rights they may be restricted or denied. Sec is also not obliged to entertain requests that are clearly in violation of standard prisoner protocol[/color]
+
+                                   [italics][bold]Please enjoy your stay.[/italics][/bold]
+                                   (and [bold]don't[/bold] come again!)

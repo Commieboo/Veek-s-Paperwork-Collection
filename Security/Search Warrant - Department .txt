@@ -1,0 +1,17 @@
+# Department search Warrant
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Department search Warrant[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+​​​​​​​​​​​​​   🛈 [bold]This warrant grants security permission to [color=#cb0000]search[/color] the specified [color=#cb0000]department[/color] during any alert. [color=#cb0000]This warrant must be approved and stamped by the head of the department to be searched or the Captain.[/bold][/color]
+
+Requesting Officer:   [color=#002AAF]Officer Sample[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Target:   [color=#002AAF]Employee Sample [/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Warrant Reason:   [color=#002AAF]Sample Reason[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Contraband found during the search will be confiscated and the owners may be detained at discretion of the officer(s). [color=#cb0000][bold]Non-contraband may not be confiscated.[/bold][/color]
+
+[italic][color=#aaaaaa]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by the department head in command of the suspect, the Head of Security, Warden, Chief Justice or the Captain.[/color]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]

@@ -1,0 +1,22 @@
+# Controlled Substance Transportation Order 
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Controlled substance transport[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[bold]Name[/bold]:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Current job[/bold]:    [color=#002AAF]Sample [/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Reason for transportation:    [color=#002AAF]Sample [/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Controlled substances being transported[/bold]:    
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+
+[bold]Delivery location[/bold]:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=Gray]​​​​​​​​​​​​​   🛈 The transportation and use of controlled substances much be authorized by the CMO or the acting captain of the station.[/color]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]

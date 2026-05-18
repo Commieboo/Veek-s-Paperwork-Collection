@@ -1,0 +1,47 @@
+#Psyonic Registry
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Psionic Mantis Veek-Beem[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Psionic Registry[/bolditalic]
+[/color]──────────────────────────────────────────
+
+[head=3][color=#c96dbf][bold]Entry Number 001[/bold][/color][/head]
+[color=#c96dbf][bold]Psionic Registration Type[/bold][/color]
+(  ) Type A    (  ) Type B    (  ) Type C
+
+[color=#c96dbf][bold]Name of Psionic user:[/bold][/color]
+[italic] x [/italic]
+
+[color=#c96dbf][bold]Psionic power of said user:[/bold][/color]
+[italic] x [/italic]
+
+[bold][color=#c96dbf]Role and department: [/color][/bold]
+[italic] x [/italic]
+─────────────────────────────────────────
+[head=3][color=#c96dbf][bold]Entry Number 002[/bold][/color][/head]
+[color=#c96dbf][bold]Psionic Registration Type[/bold][/color]
+(  ) Type A    (  ) Type B    (  ) Type C
+
+[color=#c96dbf][bold]Name of Psionic user:[/bold][/color]
+[italic] x [/italic]
+
+[color=#c96dbf][bold]Psionic power of said user:[/bold][/color]
+[italic] x [/italic]
+
+[bold][color=#c96dbf]Role and department: [/color][/bold]
+[italic] x [/italic]
+─────────────────────────────────────────
+[head=3][color=#c96dbf][bold]Entry Number 003[/bold][/color][/head]
+[color=#c96dbf][bold]Psionic Registration Type[/bold][/color]
+(  ) Type A    (  ) Type B    (  ) Type C
+
+[color=#c96dbf][bold]Name of Psionic user:[/bold][/color]
+[italic] x [/italic]
+
+[color=#c96dbf][bold]Psionic power of said user:[/bold][/color]
+[italic] x [/italic]
+
+[bold][color=#c96dbf]Role and department: [/color][/bold]
+[italic] x [/italic]
+─────────────────────────────────────────
+​​​​​​​​​​​​​   🛈 [italic][color=gray]Type A denotes psionic abilities that are deemed non-harmfull and allows the free use of Psionic abilities [/italic][/color]
+​​​​​​​​​​​​​   🛈 [italic][color=gray]Type B denotes psionic abilities that may pose a threat to the station or the user in some circumstances and limits the use of said powers to authorized use only, authorized by the user's department head or direct superior. [/italic][/color]
+​​​​​​​​​​​​​   🛈 [italic][color=gray]Type C denotes psionic abilities that are considered a threat to the station and the user and orders a complete ban of the users abilities, the Psionic Mantis may take the required steps to halt the users ability to use said power.[/italic][/color]

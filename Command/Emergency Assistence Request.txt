@@ -1,0 +1,33 @@
+# Emergency assistance request
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Emergency Alert active[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Immediate Assistance Request[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+[head=1][bold]​​​​​​​​​​​​​   🛈 Defacto station alert status: [color=#34616b] Gamma Alert [/color][/bold][/head]
+[color=Red][head=2]Immediate assistence requested[/head][/color]
+[color=#1b67a5][head=3]
+
+Describe the situation here
+
+[/head][/color]
+[bold]ERT Teams requested:[/bold][mono]
+[bold][color=#aaaaaa](  ) [/color][/bold] "BLUEBOX" General ERT  
+[bold][color=#aaaaaa](  ) [/color][/bold] "CLEANERS" Janitor ERT
+[bold][color=#aaaaaa](  ) [/color][/bold] "MANTICORE" Assault ERT
+[bold][color=#aaaaaa](  ) [/color][/bold] "EXARCH" Quarantine ERT
+[bold][color=#aaaaaa](  ) [/color][/bold] "SHIRLEY" Engineering ERT
+[bold][color=#aaaaaa](  ) [/color][/bold] "REMEDY" CBURN ERT 
+
+[color=#AAAAAA]​​​​​​​​​​​​​   🛈 In case multiple ERT teams are requested any of the selected response teams will suffice, we trust Centcomm to make a reasonable judgement.[/color]
+
+[bold]Supplies requested:[/bold][mono]
+[bold][color=#aaaaaa](  ) [/color][/bold] EMERGENCY REACTOR SUPPLIES
+[bold][color=#aaaaaa](  ) [/color][/bold] EMERGENCY WEAPONS
+[bold][color=#aaaaaa](  ) [/color][/bold] EMERGENCY OXYGEN SUPPLIES
+[bold][color=#aaaaaa](  ) [/color][/bold] EMERGENCY BUILDING SUPPLIES
+[bold][color=#aaaaaa](  ) [/color][/bold] Other:[/mono][color=blue]    Sample    [/color]  
+
+[bold]Evacuation requested:[/bold][mono]
+[bold][color=#aaaaaa](  ) [/color][/bold] EVACUATION REQUESTED
+
+            [bold]═══╣ Stamps Below ╠═══[/bold]

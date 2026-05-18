@@ -1,0 +1,13 @@
+# Injunction
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Injunction[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 This injunction is a legally binding, written order that shall restrict the target in the manner described, whether it involves disruption to station productivity or personal rights. An injunction may not compel someone to violate Space Law or NanoTrasen SOP.
+
+Injunction Subject:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Restricted Activity:   [color=#002AAF]Sample Text[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=gray]This document is not valid unless stamped by at least one of the required personnel.
+This form follows NT Delta Sector space law.[/color]

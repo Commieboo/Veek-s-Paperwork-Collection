@@ -1,0 +1,68 @@
+# Docking Request
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Station Name Here[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Docking Request[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 [color=Gray]In order to receive a permit you must fill out the following form, making sure to answer all questions accurately. Once finished please hand it into the Head of Personnel, Head of Security or Captain for review.[/color]
+
+Name:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Current Job (if any):    [color=#002AAF]Sample Job[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Company (if any):    [color=#002AAF]Sample Job[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Ship Name:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Crew onboard the vessel:    
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+
+Arrival Time:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Reason for Docking:
+(  ) Leisure
+(  ) Business
+(  ) Emergency
+(  ) Resupply
+
+Duration of Stay:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Duration of Stay Granted:    [color=#002AAF]Command to fill in[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Cargo On Board:
+(  ) Food
+(  ) Medical Equipment
+(  ) Explosive Material
+(  ) Weapons
+
+Explosive Materials / Weapons:    
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+
+[head=3]Reason for Emergency Docking:    [/head]
+
+[color=#002AAF]Sample reason[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+Assistance Requested:
+(  ) Food
+(  ) Medical
+(  ) Engineering
+(  ) Security
+
+Comments from Relevant Command Member:
+
+[color=#002AAF]Sample Name[/color]
+
+​​​​​​​​​​​​​   🛈 [color=Grey]Please be aware that you and your vessel(s) may be searched upon arrival and escorted at the discretion of the Security Services or member of Command. Visitor may request asylum, which is at a Station Representative's discretion to decide, and they will be given as much or as little access throughout the vessel as a Station Representative deems fit.
+
+​​​​​​​​​​​​​   🛈 All visitors aboard a Nanotrasen Station are subject to Space Law, If an individual commits a crime aboard a Nanotrasen station and then flees to an unaffiliated party's vessel, the Captain of that vessel is authorized to grant or deny asylum. Foreign vessels' sovereignty must be observed and any decisions of their command to deny or restrict entry are to be respected.
+
+​​​​​​​​​​​​​   🛈 This permit is not valid unless signed and stamped by a member of command and Captain of the foreign vessel - Time frames are to be adhered to or your ship may be impounded. [/color]

@@ -1,0 +1,13 @@
+# Pen borrowing form
+[color=#1b67a5]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]How do i fill this in?[/italic][/color]
+​​​[color=#1b67a5]     █🭦█ 🬾[bolditalic]Official Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Ben borrowing form[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+[bold]The subject of this document requests a [color=#5b97bc]writing pen[/color]. [color=#5b97bc]This form must be approved and stamped.[/color][/bold]
+
+[bold]Your Name:[/bold]         [color=blue]    X    [/color]
+
+[bold]Amount of pens borrowed:[/bold]         [color=blue]    X    [/color]
+
+[bold]When will the pen be returned?:[/bold]         [color=blue]    X    [/color]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold][/color]

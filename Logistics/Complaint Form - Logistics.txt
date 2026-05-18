@@ -1,0 +1,21 @@
+#Logistics Complaint
+[color=#b18644]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Servitium Nulli Secundus'[/italic][/color]
+​​​[color=#b18644]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Logistics Complaint[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+I wish to report a complaint about an
+
+(  ) Materials Shortage
+(  ) Denied Purchase (specify)
+(  ) General Logistics Issue
+(  ) Other: 
+
+Please provide details
+
+Your Name:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Your Role:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+────────────────────────────────────────
+Once complete, please send this form to the mailing room.
+
+Thank you for your response, your feedback is important to us!

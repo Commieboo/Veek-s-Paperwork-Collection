@@ -1,0 +1,15 @@
+# Library catalogue 
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Library catalogue [/bolditalic]
+───────────────────────────────────
+
+[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+[italic]Short description of the book.[/italic]
+──────────────────────────────────────────
+[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+[italic]Short description of the book.[/italic]
+──────────────────────────────────────────[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+[italic]Short description of the book.[/italic]
+──────────────────────────────────────────[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+[italic]Short description of the book.[/italic]
+──────────────────────────────────────────

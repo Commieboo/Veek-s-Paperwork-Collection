@@ -1,0 +1,20 @@
+# Patient Evaluation
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Patient Evaluation[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+[bold]Patient Name:[/bold]      [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Evaluated by:[/bold]    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Initial Diagnoses:[/bold]    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Suggested Actions and Treatment:[/bold]    [color=#002AAF]Sample Answer[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[bold]Additional notes notes:[/bold]
+[head=3][color=blue]
+
+N/a
+
+[/color][/head]

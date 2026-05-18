@@ -1,0 +1,14 @@
+# Perscription
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Perscription[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+Name of doctor:    [color=#002AAF]Sample Name[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Prescribed to:    [color=#002AAF]Sample Job[/color]
+              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Medication prescribed:    
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]
+• [color=#002AAF]    Sample Name      [/color]

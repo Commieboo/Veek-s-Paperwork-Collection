@@ -1,0 +1,27 @@
+# Crime Report
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Veritas et Jus'[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Crime Report[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+[bold]Crime Committed:[/bold]    [color=#002AAF]Sample Crime[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Crime Location:[/bold]    [color=#002AAF]Sample Location[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bold]Responding officer(s):[/bold]
+[color=#002AAF]Sample Officer 1[/color]
+[color=#002AAF]Sample Officer 2[/color]
+
+[bold]Evidence on scene:[/bold]
+[color=#002AAF]Sample Evidence 1[/color]
+[color=#002AAF]Sample Evidence 2[/color]
+
+[bold]Witness testimony:[/bold]
+[color=#002AAF]Sample Name[/color]
+[color=#002AAF]Sample Testimony[/color]
+
+[bold]Other clues:[/bold]
+[color=#002AAF]Sample Clue[/color]
+
+[bold]Theories & notes:[/bold]
+[color=#002AAF]Sample Theory/Note 1[/color]
+[color=#002AAF]Sample Theory/Note 2[/color]

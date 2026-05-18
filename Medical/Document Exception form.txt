@@ -1,0 +1,14 @@
+# Document Exception Form
+[color=#5b97bc]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]'Ars longa, vita brevis'[/italic][/color]
+​​​[color=#5b97bc]     █🭦█ 🬾[bolditalic]Medical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Document Exception Form[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+
+​​​​​​​​​​​​​   🛈 [bold]The holder of this document is [color=#5b97bc]exempt from[/color] having to fill out forms, respond to letters, or otherwise engage in [color=#5b97bc]bureaucracy[/color] for mental health reasons.[/bold]
+
+Exempted Individual:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Evaluating Psychologist:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#aaaaaa][italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by an evaluating Psychologist or by the Chief Medical Officer.[/color]
+
+                                  [bold]═══╣ Stamp Below ╠═══[/bold]

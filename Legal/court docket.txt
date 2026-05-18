@@ -1,0 +1,39 @@
+#Court Docket
+[color=maroon]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]       [head=3]│[/head] [color=gray][italic]"Fiat Justitia, Ruat Caelum"[/italic][/color]
+​​​[color=maroon]     █🭦█ 🬾[bolditalic]Legal associate[/color][/bolditalic] [head=3]│[/head] [head=3][bolditalic]Court Docket[/bolditalic][/head]​​​​​​​​​
+​​​​​​[head=3]──────────────┴────────────────────[/head]
+[color=#800000][head=2]The Parties[/head][/color]
+[head=3]     [color=#800000]Plaintiff,[/color]
+          <PLANTIFF NAME>
+        v.
+[head=3]     [color=#6b2833]Defendant,[/color]
+         <DEFENDANT NAME>
+
+───────────────────────────────────
+
+[color=#800000][bold]Charges:[/bold][/color]
+• [italic] x [/italic]
+• [italic] x [/italic]
+• [italic] x [/italic]
+
+───────────────────────────────────
+
+[color=#800000][bold]Evidence and Witnesses:[/bold][/color]
+
+[color=#800000][bold]PROSECUTION:[/bold][/color]
+• [italic] x [/italic]
+• [italic] x [/italic]
+• [italic] x [/italic]
+
+[color=#6b2833][bold]DEFENSE:[/bold][/color]
+• [italic] x [/italic]
+• [italic] x [/italic]
+• [italic] x [/italic]
+
+───────────────────────────────────
+
+[color=#800000][bold]Court Verdict:[/bold][/color]
+
+[italic] x [/italic]
+
+[color=Gray][italic]Notarized by: [/italic][/color]
