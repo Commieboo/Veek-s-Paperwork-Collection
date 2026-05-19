@@ -1,7 +1,8 @@
-#Logistics Complaint
-[color=#b18644]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Servitium Nulli Secundus'[/italic][/color]
-​​​[color=#b18644]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Logistics Complaint[/bolditalic]
-​​​​​​[head=3]───────────────┴───────────────────[/head]
+# Logistics Complaint
+[color=#b18644]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]    │[/head] [color=gray][italic]'Servitium Nulli Secundus'[/italic][/color]
+​​​[color=#b18644]     █🭦█ 🬾[bolditalic]Logistics Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Logistics Complaint[/bolditalic]
+​​​​​​[head=3]─────────────────┴─────────────────[/head]
+
 I wish to report a complaint about an
 
 (  ) Materials Shortage
