@@ -1,7 +1,7 @@
 # Construction Contact
-[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
-​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Construction Contact[/bolditalic]
-​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]        │[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
+​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Engineering Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Construction Permit[/bolditalic]
+​​​​​​[head=3]──────────────────┴────────────────[/head]
 
 ​​​​​​​​​​​​​   🛈 [italic][color=gray]This contract has been prepared by NanoTrasen for the utility of station personnel. Using this document provides added accountability to construction related agreements made by station personnel between other station personnel..[/italic][/color]
 
