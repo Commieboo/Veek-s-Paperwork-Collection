@@ -1,7 +1,7 @@
-#Psyonic Registry
-[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Psionic Mantis Veek-Beem[/italic][/color]
-​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Psionic Registry[/bolditalic]
-[/color]──────────────────────────────────────────
+# Psyonic Registry
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]  │[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Psyonic Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Psyonic Registry[/bolditalic]
+[head=3]────────────────┴──────────────────[/head]
 
 [head=3][color=#c96dbf][bold]Entry Number 001[/bold][/color][/head]
 [color=#c96dbf][bold]Psionic Registration Type[/bold][/color]
