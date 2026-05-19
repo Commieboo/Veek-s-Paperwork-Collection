@@ -1,11 +1,11 @@
 # Building Permit 
-[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
-​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Building Permit[/bolditalic]
-​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]        │[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
+​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Engineering Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Building Permit[/bolditalic]
+​​​​​​[head=3]──────────────────┴────────────────[/head]
 
-​​​​​​​​​​​​​   🛈 [italic][color=gray]This contract has been prepared by NanoTrasen for the utility of station personnel. Using this document provides added accountability to construction related agreements made by station personnel between other station personnel..[/italic][/color]
+​​​​​​​​​​​​​   🛈 [italic][color=gray]This document must be approved by the Chief Engineer or captain in their abstinence. The permit holder is liable for any damages to the station caused by the construction outlined in this paper. The Permit holder is to make sure that the zone of construction is as safe as possible at all times.[/italic][/color]
 
-[head=3]Requester: [/head]
+[head=3]Permit Holder: [/head]
     [color=#002AAF]Sample Client[/color]
   ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [head=3]Job:[/head]
