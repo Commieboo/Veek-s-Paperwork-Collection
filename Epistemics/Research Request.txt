@@ -1,8 +1,8 @@
-# Research Request
-[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
-​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Research Request[/bolditalic]
-───────────────────────────────────
-   
+# Research Request 
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]  │[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Science Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Research Request[/bolditalic]
+[head=3]────────────────┴──────────────────[/head]
+
 ​​​​​​​​​​​​​   🛈 [bold]This document is for placing theoretical [color=#c96dbf]requests for research[/color] through the [color=#c96dbf]Epistemics[/color] department. Research is not guranteed. Be detailed and specific.[/bold]
 
 [bold]Your Name:[/bold]         [color=#002AAF]    Sample Answer    [/color]
