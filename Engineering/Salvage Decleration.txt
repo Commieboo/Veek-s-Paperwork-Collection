@@ -1,7 +1,7 @@
 # Salvage Declaration
-[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
-​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Salvage Declaration[/bolditalic]
-​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]        │[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
+​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Engineering Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Salvage Declaration[/bolditalic]
+​​​​​​[head=3]──────────────────┴────────────────[/head]
 
 [head=2]Salvage Declaration Form[/head]
 [bold]Salvaged ship:[/bold] SHIP NAME
