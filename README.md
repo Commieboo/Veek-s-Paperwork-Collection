@@ -1,8 +1,6 @@
 # Veek's-Paperwork-Collection
 Hello!
 
-PLEASE READ: CURRENTLY MOST FILES ARE BROKEN DUE TO SPECIAL CHARACTERS NOT BEING UPLOADED CORRECTLY. IT WILL BE FIXED WITHIN TWO DAYS BUT CURRENTLY THESE FILES ARE BROKEN
-
 Thank you for using Veek-Beem's compiled documents for Space Station 14! 
 Made specifically for the Delta-V server. 
 
