@@ -1,7 +1,8 @@
-#Psionic Registry Proposal
-[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Psionic Mantis Veek-Beem[/italic][/color]
-​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Psionic Registry proposal[/bolditalic]
-[/color]──────────────────────────────────────────
+# Psionic Registry Proposal 
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]  │[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Psyonic Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Psionic Registry Proposal[/bolditalic]
+[head=3]────────────────┴──────────────────[/head]
+
 Due to a series of increasingly worrying reports from neighboring stations regarding Psionic users i propose the establishment of a registry of Psionic beings;
 
 🛈 This registry shall be managed by the Psionic Mantis and registered Psionic beings shall be granted a registry card which will denote their Psionic registration type. Psionic users will be registered using the following 'Type notation' ;
@@ -13,4 +14,4 @@ Due to a series of increasingly worrying reports from neighboring stations regar
 🛈 Psionic beings that refuse registration or otherwise refuse their Type notation shall be held liable to Endangerment of the crew and prosecuted as such.
 
 ──────────────────────────────────────────
-Sincerely, Veek-Beem, Psionic Mantis
+Sincerely, Veek-Beem, Psionic Mantis]
