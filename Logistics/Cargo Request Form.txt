@@ -1,7 +1,7 @@
 # Cargo Request Form
-[color=#b18644]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Servitium Nulli Secundus'[/italic][/color]
-​​​[color=#b18644]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Cargo Request Form[/bolditalic]
-​​​​​​[head=3]───────────────┴───────────────────[/head]
+[color=#b18644]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]    │[/head] [color=gray][italic]'Servitium Nulli Secundus'[/italic][/color]
+​​​[color=#b18644]     █🭦█ 🬾[bolditalic]Logistics Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Cargo Request Form[/bolditalic]
+​​​​​​[head=3]─────────────────┴─────────────────[/head]
 
 ​​​​​​​​​​​​​   🛈 This form is to place orders for items or resources you require. Please make sure to be detailed and specific.
 
