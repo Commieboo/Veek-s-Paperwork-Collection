@@ -1,7 +1,7 @@
 # Anomalous Research Form
-[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
-​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Anomalous Research Form[/bolditalic]
-───────────────────────────────────
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]  │[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Science Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Anomalous Research Form[/bolditalic]
+[head=3]────────────────┴──────────────────[/head]
 
 [bold]Your Name:[/bold]         [color=#002AAF]    Sample Answer    [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
