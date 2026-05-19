@@ -1,12 +1,12 @@
 # Dismantling Order
-[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
-​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Dismantling Order[/bolditalic]
-───────────────────────────────────
+[color=#c96dbf]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]  │[/head] [color=gray][italic]'Scientia potentia est'[/italic][/color]
+​​​[color=#c96dbf]     █🭦█ 🬾[bolditalic]Science Document[/color][/bolditalic] [head=3]│[/head][bolditalic] Dismantling Order[/bolditalic]
+[head=3]────────────────┴──────────────────[/head]
 
 ​​​​​​​​​​​​​​   🛈 [italic][color=gray]This order is for the dismantling and potential re-hosuing of a Borg unit under the station's employ[/italic][/color]
 
 This order is for the dismantling and potential re-hosuing of a Borg unit under the station's employ.
-[bold][color=red]This order must be approved by a member of Command.[/color][/bold]
+[bold][color=#c96dbf]This order must be approved by a member of Command.[/color][/bold]
 
 [bold]Requesting Persons:[/bold]
 [italic] x [/italic]
