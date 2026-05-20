@@ -7,7 +7,7 @@
 
 [bold]Name: [/bold][color=red]Enter Full Name [/color]
 [bold]Department: [/bold][color=red]Department Here [/color]
-[bold]Reason for Termination: 
+[bold]Reason for Termination: [color=red] REASONING HERE [/color]
 
 Reason for Separation:
 ​VOLUNTARY
