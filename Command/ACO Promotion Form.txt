@@ -6,12 +6,12 @@
 ​​​​​​​​​​​​​   🛈 [bold]We, the [color=#1b67a5]Department Heads[/color] of the listed station have met, and following ACO Standard Operating Procedure have named our ​​​[color=#1b67a5]Acting Commanding Officer.[/color][/bold]
 
 [bold][color=#b18644] Vote of the LO: X [/color]
-[bold][color=#cb0000] Vote of the HoS: X [/color]
-[bold][color=#1b67a5] Vote of the HoP: X [/color]
-[bold][color=#800000]Vote of the CJ: X [/color]
-[bold][color=#c96dbf] Vote of the MG: X [/color]
-[bold][color=#f39f27] Vote of the CE: X [/color]
-[bold][color=#5b97bc] Vote of the CMO: X [/color]
+[color=#cb0000] Vote of the HoS: X [/color]
+[color=#1b67a5] Vote of the HoP: X [/color]
+[color=#800000]Vote of the CJ: X [/color]
+[color=#c96dbf] Vote of the MG: X [/color]
+[color=#f39f27] Vote of the CE: X [/color]
+[color=#5b97bc] Vote of the CMO: X [/color][/bold]
 
 [bold]Name of ACO: [color=red] Enter Full Name [/color][/bold]
 [bold]Previous Rank: [color=red] Department Here [/color][/bold]
