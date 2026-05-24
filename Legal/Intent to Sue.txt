@@ -8,7 +8,7 @@
 [head=3][color=#6b2833]Dear,[/color]
     NAME OF SUED PARTY [/head]
 
-This letter of intent to sue shall serve as a formal notice that [color=blue]NAME[/italic][/color] intends to commence a lawsuit against you due to the following: [color=blue]
+This letter of intent to sue shall serve as a formal notice that [color=blue]NAME[/color] intends to commence a lawsuit against you due to the following: [color=blue]
 <Insert complaint here>[/color]
 
 ───────────────────────────────────
