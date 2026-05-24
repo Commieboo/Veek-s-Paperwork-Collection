@@ -15,11 +15,11 @@ This letter of intent to sue shall serve as a formal notice that [color=blue]NAM
 
 Below is the breakdown of the damages the Plaintiff claims to have sustained [italic]not including Punitive Damages awarded by the court[/italic]. The Plaintiff expects to receive compensation for the damages they have sustained.
 [bold]The breakdown of damages are as follows:[/bold][color=blue]
-<Insert the damages here>[/italic][/color]
+<Insert the damages here>[/color]
 
 ───────────────────────────────────
 
  As a result of your actions, the Plaintiff seeks relief in the form of:[/bold][color=blue]
-<Insert the compensation demanded here>[/italic][/color]
+<Insert the compensation demanded here>[/color]
 
 ───────────────────────────────────
