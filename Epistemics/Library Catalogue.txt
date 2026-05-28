@@ -8,8 +8,10 @@
 ──────────────────────────────────────────
 [color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
 [italic]Short description of the book.[/italic]
-──────────────────────────────────────────[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+──────────────────────────────────────────
+[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
 [italic]Short description of the book.[/italic]
-──────────────────────────────────────────[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
+──────────────────────────────────────────
+[color=#c96dbf][head=3][bold]Book Title │ Book Genres(s) [/bold][/head][/color]
 [italic]Short description of the book.[/italic]
 ──────────────────────────────────────────
