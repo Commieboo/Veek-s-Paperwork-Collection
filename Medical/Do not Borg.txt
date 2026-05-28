@@ -16,7 +16,7 @@
 [color=#5b97bc][head=2][bold]PATIENT STATEMENT[/bold][/head][/color]
 Based upon informed consent, I, the undersigned, hereby direct that experimentation be withheld or withdrawn.
 [italic][color=#aaaaaa](If not signed by patient, check applicable box)[/color][/italic]
-[bold][color=#aaaaaa][  ][/color][/bold] Surrogate    [bold][color=#aaaaaa][  ][/color][/bold] Court-Appointed Guardian
+[bold][color=#aaaaaa](  )[/color][/bold] Surrogate    [bold][color=#aaaaaa](  )[/color][/bold] Court-Appointed Guardian
 
 [color=#aaaaaa]​​​​​​​​​​​​​   🛈 [italic]This document remains [color=#777777][bold]invalid until stamped[/bold][/color] by an evaluating Psychologist or by the Chief Medical Officer.
 
