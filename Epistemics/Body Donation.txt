@@ -17,7 +17,7 @@
 [color=#c96dbf][head=2][bold]PATIENT STATEMENT[/bold][/head][/color]
 Based upon informed consent, I, the undersigned, hereby direct that the subjects body be donated to the station.
 [italic][color=#aaaaaa](If not signed by patient, check applicable box)[/color][/italic]
-[bold][color=#aaaaaa][  ][/color][/bold] Surrogate    [bold][color=#aaaaaa][  ][/color][/bold] Court-Appointed Guardian
+[bold][color=#aaaaaa](  )[/color][/bold] Surrogate    [bold][color=#aaaaaa](  )[/color][/bold] Court-Appointed Guardian
 
 
                                   [bold]═══╣ Stamp Below ╠═══[/bold]
