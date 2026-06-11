@@ -13,7 +13,7 @@
 [bold]    [head=3]1.[/head] The Prosecution reads the charges.[/bold]
 [italic]The prosecution also suggests the penalty they will push for and states in short which evidence they will present.[/italic]
 
-[bold]    [head=3]2.[/head] The Attorney will please Guilty-or-not-guilty[/bold]
+[bold]    [head=3]2.[/head] The Attorney will plead Guilty-or-not-guilty[/bold]
 [italic]If the Accused pleads guilty the Prosecutor's suggested penalty will be adopted with the judge's approval[/italic]
 
 [bold]    [head=3]3.[/head] The Prosecution presents all evidence to support the charges.[/bold]
