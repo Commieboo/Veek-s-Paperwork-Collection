@@ -5,9 +5,9 @@
 
 ​​​​​​​​​​​​​   🛈 [bold]by signing this document the [color=maroon]Buyer[/color] and [color=maroon]Seller[/color] agree to [color=maroon]transfer the items[/color] specified in the document below for the [color=maroon]agreed upon sum[/color].[/bold]
 
-[bold]The buyers Name:[/bold]         [color=blue]   Sample   [/color]
+[bold]The buyer's Name:[/bold]         [color=blue]   Sample   [/color]
                            ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-[bold]The Sellers Name:[/bold]         [color=blue]   Sample   [/color]
+[bold]The seller's Name:[/bold]         [color=blue]   Sample   [/color]
                                ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 [bold]Items of purchase:[/bold]
 [color=#002AAF]•        Sample       [/color]
