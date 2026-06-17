@@ -36,7 +36,7 @@
 [italic]Emergency alert status. The nuclear destruction mechanism has been engaged and station destruction is imminent. All crew aboard the station must attempt to reverse the self-destruct mechanism, if engaged in error. Should reversal prove impossible, evacuate as applicable.[/italic]
 ──────────────────────────────────────────
 [color=peru][head=3][bold]Orange Alert │ Abandon ship alert[/bold][/head][/color]
- 	CO > CE > Sec > Department Heads > ... 
+ 	CO > CE > Engineering > Department Heads > ... 
 [italic]Emergency alert status. The station is declared inhabitable or faces immediate destruction with recovery deemed impossible. The MAYDAY signal on the station has activated and all crew aboard the station must evacuate in whichever way possible.[/italic]
 ──────────────────────────────────────────
 [color=#4e3986][head=3][bold]Code Octarine │ Imminent noospheric emergency [/bold][/head][/color]
