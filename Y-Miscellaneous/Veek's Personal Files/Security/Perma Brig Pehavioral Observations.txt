@@ -1,0 +1,20 @@
+# Perma Brig Behavioral Observations
+[color=#cb0000]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]│[/head] [color=gray][italic]Veek-Beem[/italic][/color]
+​​​[color=#cb0000]     █🭦█ 🬾[bolditalic]Offical Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Perma behavioral log[/bolditalic]
+​​​​​​[head=3]───────────────┴───────────────────[/head]
+
+...
+
+[color=Gray]log 11 -[/color]
+30-12-25XX - [color=#cb0000]Security Officer[/color] [mono]REDACTED[/mono]
+[mono]Are we sure Veek's supposed to have a welder? [/mono]
+────────────────────────────
+[color=Gray]log 12:[/color]
+12-01-25XX - [color=#cb0000]Warden [/color][mono]REDACTED[/mono]
+[mono]I talked to the HoS and we just gave her some, she's fine as long as she's kept happy. Let her make her little bar or whatever and she won't be an issue.[/mono]
+────────────────────────────
+[color=Gray]log 13:[/color]
+21-03-25XX - [color=#cb0000]Warden [/color][mono]REDACTED[/mono]
+[mono]She just crit a perma attempting to escape.. Apparently the attempt messed with her flooring[/mono]
+
+...
