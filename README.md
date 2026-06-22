@@ -26,5 +26,7 @@ https://wiki.deltav.gay/view/Paperwork
 Paperwork Viewer
 https://yagwog.github.io/RMC14-document-simu/
 
+feedback and ideas are always appriciated! Feel free to message me on discord!
+
 - Much love, Commieboo
 AKA, Chief Justice, Veek-Beem
