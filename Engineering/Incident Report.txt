@@ -1,0 +1,36 @@
+# Incident Report
+[color=#EFB341]  🭤 █🭀█[head=4][bold] ANOTRASEN[/bold][/head][/color]          [head=3]        │[/head] [color=gray][italic]'Mutatis mutandis'[/italic][/color]
+​​​[color=#EFB341]     █🭦█ 🬾[bolditalic]Engineering Document[/color][/bolditalic] [head=3]│[/head] [bolditalic]Incident Permit[/bolditalic]
+​​​​​​[head=3]──────────────────┴────────────────[/head]
+
+Your Name:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Your Role:   [color=#002AAF]Sample Person[/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+Location of the incident:   [color=#002AAF]Sample Location[/color]
+                             ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+────────────────────────────────────────
+
+Please describe the incident and how it occurred:
+[color=#002AAF]Sample [/color]
+
+How can future events like this be avoided:
+[color=#002AAF]Sample [/color]
+
+────────────────────────────────────────
+
+[bold]Are repairs required:[/bold]
+(  ) Yes          (  ) No          (  ) Not yet
+
+[bold]How much of location is physically damaged:[/bold]
+[color=#002AAF]Sample Awnser [/color]
+
+[bold]Are there any casualties:[/bold]
+[color=#002AAF]NAME & ROLE [/color]
+
+[bold]Any further notes on the damages:[/bold]
+[color=#002AAF]Sample [/color]
+
+​​​​​​​​​​​​​​   🛈 [italic][color=gray]We are very sorry please don't sue us.[/bold][/italic][/color]
+
+                                  [bold]═══╣ Stamps Below ╠═══[/bold]
